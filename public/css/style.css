@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.form{
+    text-align: center;
+    margin-top: 30vh;
+}
+#box{
+    text-align: center;
+    margin-top : 30vh;
+}
+.temp-img{
+    padding: 40px 0 20px;
+}
